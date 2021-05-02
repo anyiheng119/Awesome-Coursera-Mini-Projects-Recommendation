@@ -9,30 +9,30 @@ With Guided Projects, you can learn a job-relevant skill in under two hours. Gui
 
 ### Database
 
-Extract, Load & Transform using Python
+[Extract, Load & Transform using Python](https://www.coursera.org/projects/extract-transform-load-using-python)
 
-Design and Create a Relational Database Table Using SQLiteStudio
+[Design and Create a Relational Database Table Using SQLiteStudio](https://www.coursera.org/projects/create-relational-database-table-sqlitestudio)
 
-Adding Advanced Features to a Relational Database Table Using SQLiteStudio
+[Advanced Features to a Relational Database Table Using SQLiteStudio](https://www.coursera.org/projects/advanced-features-relational-database-table-sqlitestudio)
 
 
 ### Data Visualization
-Data Visualization with Plotly Express
+[Data Visualization with Plotly Express](https://www.coursera.org/projects/data-visualization-plotly-express)
 
 
 ### Machine Learning
-Naive Bayes Classifiers for Resume Classification
+[Naive Bayes Classifiers for Resume Classification](https://www.coursera.org/projects/resume-selector-using-naive-bayes)
 
-Automatic Machine Learning with H2O AutoML and Python
+[Automatic Machine Learning with H2O AutoML and Python](https://www.coursera.org/projects/automatic-machine-learning-h2o-automl-python)
 
-Explainable Machine Learning with LIME and H2O in R
+[Explainable Machine Learning with LIME and H2O in R](https://www.coursera.org/projects/explainable-machine-learning-lime-h2o)
 
-Explaining Tree Based Models Using SHAP
+[Explaining Tree Based Models Using SHAP](https://www.coursera.org/projects/explaining-tree-based-models-using-shap)
 
 ### Clouding Computing
 
-AWS S3 Basics
+[AWS S3 Basics](https://www.coursera.org/projects/aws-s3-basics)
 
-AWS Lambda and API Gateway Basics - Create Serverless Website
+[AWS Lambda and API Gateway Basics - Create Serverless Website](https://www.coursera.org/projects/aws-lambda-and-api-gateway-basics-build-serverless-website)
 
-Machine Learning Pipelines with Azure ML Studio
+[Machine Learning Pipelines with Azure ML Studio](https://www.coursera.org/projects/azure-machine-learning-studio-pipeline)
